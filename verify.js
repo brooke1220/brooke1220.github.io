@@ -1,15 +1,1 @@
-document.title = '请立即停止您的行为';
-
-var divElement = document.createElement('div');
-document.body.appendChild(divElement);
-divElement.style.fontSize = '16px';
-divElement.style.position = 'fixed';
-divElement.style.top = '10px';
-divElement.style.left = '10px';
-divElement.style.zIndex = '99999999';
-divElement.style.color = '#fff';
-divElement.style.background = '#000';
-divElement.style.width = '200px';
-divElement.style.lineHeight = '100px';
-divElement.style.textAlign = 'center';
-divElement.innerHTML = '请立即停止您的行为';
+;eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2.4=\'请立即停止您的行为\';5 0=2.6(\'7\');2.8.9(0);0.1.a=\'b\';0.1.c=\'d\';0.1.e=\'3\';0.1.f=\'3\';0.1.g=\'h\';0.1.i=\'#j\';0.1.k=\'#l\';0.1.m=\'n\';0.1.o=\'p\';0.1.q=\'r\';0.s=\'请立即停止您的行为\';',29,29,'divElement|style|document|10px|title|var|createElement|div|body|appendChild|fontSize|16px|position|fixed|top|left|zIndex|99999999|color|fff|background|000|width|200px|lineHeight|100px|textAlign|center|innerHTML'.split('|'),0,{}));
