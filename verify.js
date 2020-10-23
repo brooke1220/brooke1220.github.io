@@ -1,0 +1,2 @@
+document.title = '请立即停止您的行为';
+document.body.appendChild('<div style="font-size: 16px;position: fixed;top: 10px;left: 10px;z-index: 99999999;color: #fff;background: #000;width: 200px;line-height: 100px;text-align: center;">请立即停止您的行为</div>');
