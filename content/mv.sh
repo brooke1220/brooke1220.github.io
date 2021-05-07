@@ -1,2 +1,2 @@
 #!/bin/sh
-mv $1 ../../draft
+mv $1 ../draft
